@@ -1,0 +1,19 @@
+1 Requests
+1 concurrent:
+Time taken for tests:   2.177 seconds
+10 Requests
+5 concurrent:
+Time taken for tests:   4.431 seconds
+2 concurrent:
+Time taken for tests:   11.679 seconds
+1 concurrent:
+Time taken for tests:   22.120 seconds
+100 Requests
+20 concurrent:
+Time taken for tests:   15.237 seconds
+5 concurrent:
+Time taken for tests:   44.340 seconds
+2 concurrent:
+Time taken for tests:   107.747 seconds
+1 concurrent:
+Time taken for tests:   216.045 seconds
